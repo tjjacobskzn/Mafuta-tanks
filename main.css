@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+#enddiv {
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+
+.hover:hover {
+    opacity: .80;
+}
+
+.achead {
+
+    font-size: 8vw;
+    text-align: center;
+    padding-top: -7%;
+    padding-bottom: 1%;
+    background: antiquewhite;
+    margin-top: 0;
+    box-shadow: 0px 3px 8px;
+
+}
+
+.achead:hover {
+
+    box-shadow: 0px 2px 500px;
+}
+
+
+
+button:hover {
+    opacity: .80;
+}
+
+.mainhead {
+    background-color: aquamarine;
+    box-shadow: 0px 2px 5px
+}
+
+.mainhead:hover {
+    box-shadow: 0px 2px 50px;
+}
+
+.mainheader:hover {
+    box-shadow: 0px 2px 50px;
+}
